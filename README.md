@@ -1,8 +1,4 @@
 Paying Bail with Blockchain Challenge Presented by [Bail Bloc](https://bailbloc.thenewinquiry.com) and [BLIP](https://www.brooklaw.edu/academics/clinicalprogram/blip/aboutblip?)
- 
- 
-<img width="544" alt="screen shot 2018-02-13 at 3 00 36 pm" src="https://user-images.githubusercontent.com/2357755/36170884-bda9a61a-10ce-11e8-8bc2-1207a0dac997.png">
-
 
  Paying Bail with Blockchain Challenge
  
