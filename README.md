@@ -1,9 +1,5 @@
 Paying Bail with Blockchain Challenge Presented by [Bail Bloc](https://bailbloc.thenewinquiry.com) and [BLIP](https://www.brooklaw.edu/academics/clinicalprogram/blip/aboutblip?)
 
- Paying Bail with Blockchain Challenge
- 
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle The Paying Bail with Blockchain Challenge.**
-
  # Overview
  
 America's for profit bail system has created an untenable, indeed unjust, social problem wherein bail facilitates mass incarceration and social oppression. Prosecutors and judges, working in concert for the sake of "judicial efficiency", often coerce low-income people to accept plea deals. In New York, 90% of people who can’t pay bail end up pleading guilty. 70% of people in American jails have not yet been convicted of any crime. 
