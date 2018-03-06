@@ -1,6 +1,6 @@
 # Paying Bail with Blockchain Challenge Presented by [Bail Bloc](https://bailbloc.thenewinquiry.com) and [BLIP](https://www.brooklaw.edu/academics/clinicalprogram/blip/aboutblip?)
 
- # Overview
+Overview
  
 America's for profit bail system has created an untenable, indeed unjust, social problem wherein bail facilitates mass incarceration and social oppression. Prosecutors and judges, working in concert for the sake of "judicial efficiency", often coerce low-income people to accept plea deals. In New York, 90% of people who can’t pay bail end up pleading guilty. 70% of people in American jails have not yet been convicted of any crime. 
 
