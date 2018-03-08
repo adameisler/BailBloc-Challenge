@@ -8,8 +8,11 @@ Crowdsourcing bail with blockchain in New York is currently timely and costly. T
 
  Teams should:
  
-* Present a method for utilizing blockchain in the crowdsourcing of bail in the most efficient way possible.
+•	Teams should first consult BailBloc’s open-source code and identify any pitfalls to their current model. The code and project description is available at [Bail Bloc](https://bailbloc.thenewinquiry.com)
 
--Final team projects will be reviewed and rated by a panel of invited judges. This project can have a major, tangible impact. The team submitting the top-ranked, highest rated corporate structure will be given free subscriptions to The New Inquiry and a 2018 specialty tote. 
+•	Present a method for utilizing blockchain in the crowdsourcing of bail for indigent misdemeanor offenders that deals with the complicated New York Bitlicense scheme and the conversion process. Imagine if you could simply pay bail with Monero, BitCoin, or Ether.
+
+-Final team projects will be reviewed and rated by a panel of judges with experience in this issue. This project can have a major, tangible impact on the criminal justice system. The team submitting the top-ranked, highest rated corporate structure will be given free subscriptions to The New Inquiry and a 2018 specialty tote. 
+
 
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
