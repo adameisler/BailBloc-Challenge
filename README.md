@@ -18,7 +18,7 @@ Teams should:
 
 # Team Participation
 
-To register your team project, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information: 
+To register your team project, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information:<br/> 
 • The name of your project and your team name; <br/>
 • The names of your team members including the GitHub username of at least one member;<br/>
 • The URL of the GitHub repository where your project will be developed and submitted;
