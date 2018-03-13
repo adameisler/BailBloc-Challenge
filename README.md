@@ -28,8 +28,10 @@ To register your team project, submit a [GitHub Issue](https://github.com/BLIP-C
 
 Projects will be judged according to the following criteria:
 
-• Consistency with existing NY and Federal Law.<br/>
+• Compliance with existing New York and Federal Law.<br/>
 • Compliance with NY's Bitlicense regulation.<br/>
-• Timeliness and ease of conversion.
+• Quickest and most frictionless conversion method. 
+• User friendly interface <br/>
  
-This project can have a major, tangible impact on the criminal justice system. Submit all ideas to adam.eisler@brooklaw.edu
+ 
+This project can have a major, tangible impact on the criminal justice system. Submit all ideas to jonathan.askin@brooklaw.edu
