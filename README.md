@@ -32,4 +32,4 @@ Projects will be judged according to the following criteria:
 • Compliance with NY's Bitlicense regulation.<br/>
 • Timeliness and ease of conversion.
  
-This project can have a major, tangible impact on the criminal justice system. Submit all ideas to
+This project can have a major, tangible impact on the criminal justice system. Submit all ideas to adam.eisler@brooklaw.edu
