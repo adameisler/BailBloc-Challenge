@@ -16,10 +16,20 @@ Teams should:
 <p align="justify">Final team projects will be reviewed and evaluated by a panel of experienced judges, including members of the Bail Bloc team and lawyers. The team submitting the most efficient, frictionless fund raising scheme will be given free subscriptions to The New Inquiry and a 2018 specialty tote bag.
 </p>
 
+# Team Participation
+
+To register your team project, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information: 
+• The name of your project and your team name;
+• The names of your team members including the GitHub username of at least one member;
+• The URL of the GitHub repository where your project will be developed and submitted;
+• 
+
+# Criteria and Judging
+
 Projects will be judged according to the following criteria:
 
 • Consistency with existing NY and Federal Law.<br/>
 • Compliance with NY's Bitlicense regulation.<br/>
-• Ease of conversion
+• Timeliness and ease of conversion.
  
-This project can have a major, tangible impact on the criminal justice system.
+This project can have a major, tangible impact on the criminal justice system. Submit all ideas to
