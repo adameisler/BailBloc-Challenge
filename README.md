@@ -18,8 +18,8 @@ Teams should:
 
 Projects will be judged according to the following criteria:
 
-• Consistency with existing NY and Federal Law.
-• Compliance with NY's Bitlicense regulation.
+• Consistency with existing NY and Federal Law.<br/>
+• Compliance with NY's Bitlicense regulation.<br/>
 • Ease of conversion
  
 This project can have a major, tangible impact on the criminal justice system.
