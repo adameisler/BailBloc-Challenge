@@ -30,7 +30,7 @@ Projects will be judged according to the following criteria:
 
 • Compliance with existing New York and Federal Law.<br/>
 • Compliance with NY's Bitlicense regulation.<br/>
-• Quickest and most frictionless conversion method. 
+• Quickest and most frictionless conversion method.<br/>
 • User friendly interface <br/>
  
  
