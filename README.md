@@ -9,11 +9,11 @@ Overview
  
 Teams should:
  
-<ul><p align="justify">• Teams are encouraged to first consult BailBloc’s open-source code and identify any pitfalls to their current model. The code and project description is available at <a href=" "https://bailbloc.thenewinquiry.com> Bail Bloc </a>.
+<ul><p align="justify">• Teams are encouraged to first consult BailBloc’s open-source code and identify any pitfalls to their current model. The code and project description are available at [Bail Bloc](https://bailbloc.thenewinquiry.com).
  
 • Present a method for utilizing blockchain in the crowdsourcing of bail for indigent misdemeanor offenders that deals with the complicated New York Bitlicense scheme and the conversion process. Imagine if you could simply pay bail with Monero, BitCoin, or Ether.
 </p></ul>
-<p align="justify">Final team projects will be reviewed and evaluated by a panel of experienced judges, including members of the Bail Bloc team and Brooklyn Law School's <a href=" "https://www.brooklaw.edu/academics/clinicalprogram/blip/aboutblip> BLIP</a> team. The team submitting the most efficient, frictionless fund raising scheme will be given free subscriptions to The New Inquiry and a 2018 specialty tote bag.
+<p align="justify">Final team projects will be reviewed and evaluated by a panel of experienced judges, including members of the Bail Bloc team and Brooklyn Law School's [BLIP](https://www.brooklaw.edu/academics/clinicalprogram/blip/aboutblip?) team. The team submitting the most efficient, frictionless fund raising scheme will be given free subscriptions to The New Inquiry and a 2018 specialty tote bag.
 </p>
 
 # Team Participation
