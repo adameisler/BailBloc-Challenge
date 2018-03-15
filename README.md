@@ -1,11 +1,11 @@
 # Paying Bail with Blockchain Challenge Presented by [Bail Bloc](https://bailbloc.thenewinquiry.com) and [BLIP](https://www.brooklaw.edu/academics/clinicalprogram/blip/aboutblip?)
  
 Overview
-America's for-profit bail system has created an untenable and unjust social problem wherein bail facilitates mass incarceration and social oppression.  In New York, 90% of people who can’t pay bail end up pleading guilty, and 70% of people in American jails have not yet been convicted of any crime. </p>
+America's for-profit bail system has created an untenable and unjust social problem wherein bail facilitates mass incarceration and social oppression.  In New York, 90% of people who can’t pay bail end up pleading guilty, and 70% of people in American jails have not yet been convicted of any crime. 
  
 Crowdsourcing bail with blockchain in New York is time-consuming and costly. The conversion process is made quite difficult as a result of NY's Bitlicense. New York has only awarded three BitLicenses to date. Crowdsourcing bail in a manner consistent with regulations changes what should be a simple matter into a byzantine process requiring multiple steps passing using only approved cryptocurrrencies passing through only approved trading partners and platforms.  The fees involved with each step reduce the amount of money available to bails.
  
- There <i>has</i> to be a better way to crowdfund and pay bail for NY detainees without sufficient resources to cover their bail.</p>
+ There <i>has</i> to be a better way to crowdfund and pay bail for NY detainees without sufficient resources to cover their bail.
  
 Teams should:
 
