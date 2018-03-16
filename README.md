@@ -28,8 +28,7 @@ To register your team project, submit a [GitHub Issue](https://github.com/BLIP-C
 
 Projects will be judged according to the following criteria:
 
-• Compliance with existing New York and Federal Law.<br/>
-• Compliance with NY's Bitlicense regulation.<br/>
+• Cognizance of NY’s BitLicense and bail processes<br/>
 • Quickest and most frictionless conversion method.<br/>
 • User friendly interface <br/>
  
