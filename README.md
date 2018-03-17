@@ -18,10 +18,7 @@ Final team projects will be reviewed and evaluated by a panel of experienced jud
 
 # Team Participation
 
-To register your team project, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information:<br/> 
-• The name of your project and your team name; <br/>
-• The names of your team members including the GitHub username of at least one member;<br/>
-• The URL of the GitHub repository where your project will be developed and submitted.
+Please submit all proposal information at https://goo.gl/forms/fEotLftG3aIMGWqF3.
 
 
 # Criteria and Judging
@@ -33,4 +30,4 @@ Projects will be judged according to the following criteria:
 • User friendly interface <br/>
  
  
-This project can have a major, tangible impact on the criminal justice system. Submit all ideas to jonathan.askin@brooklaw.edu
+This project can have a major, tangible impact on the criminal justice system. Submit all ideas to https://goo.gl/forms/fEotLftG3aIMGWqF3
