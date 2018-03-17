@@ -18,7 +18,7 @@ Final team projects will be reviewed and evaluated by a panel of experienced jud
 
 # Team Participation
 
-Please submit all proposal information at https://goo.gl/forms/fEotLftG3aIMGWqF3.
+Please submit all proposal information at (https://goo.gl/forms/fEotLftG3aIMGWqF3).
 
 
 # Criteria and Judging
@@ -30,4 +30,4 @@ Projects will be judged according to the following criteria:
 • User friendly interface <br/>
  
  
-This project can have a major, tangible impact on the criminal justice system. Submit all ideas to https://goo.gl/forms/fEotLftG3aIMGWqF3
+This project can have a major, tangible impact on the criminal justice system. Submit all ideas to (https://goo.gl/forms/fEotLftG3aIMGWqF3)
